@@ -33,18 +33,48 @@
       <file leaf-file-name="4.6.DefiningFunctions.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4. More Control Flow Tools/4.6.DefiningFunctions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="46" column="59" selection-start-line="46" selection-start-column="59" selection-end-line="46" selection-end-column="59" />
+            <state relative-caret-position="15">
+              <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="4.7.MoreOnDefiningFunctions.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="4.7.MoreOnDefiningFunctions.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4. More Control Flow Tools/4.7.MoreOnDefiningFunctions.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="402">
+              <caret line="167" column="0" selection-start-line="167" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="5.1. More on Lists.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/5. Data Structures/5.1. More on Lists.py">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="432">
-              <caret line="46" column="11" selection-start-line="46" selection-start-column="11" selection-end-line="46" selection-end-column="11" />
+              <caret line="68" column="14" selection-start-line="68" selection-start-column="14" selection-end-line="68" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FibonacciSeries.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Calculator/FibonacciSeries.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Container.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Container/Container.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -73,6 +103,7 @@
         <option value="$PROJECT_DIR$/4. More Control Flow Tools/4.5.passStatements.py" />
         <option value="$PROJECT_DIR$/4. More Control Flow Tools/4.6.DefiningFunctions.py" />
         <option value="$PROJECT_DIR$/4. More Control Flow Tools/4.7.MoreOnDefiningFunctions.py" />
+        <option value="$PROJECT_DIR$/5. Data Structures/5.1. More on Lists.py" />
       </list>
     </option>
   </component>
@@ -124,6 +155,10 @@
               <option name="myItemId" value="python" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Container" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -149,7 +184,17 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="4. More Control Flow Tools" />
+              <option name="myItemId" value="5. Data Structures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -162,24 +207,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Python.4.7.MoreOnDefiningFunctions">
-    <configuration default="false" name="4.3.TheRange()Function" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4. More Control Flow Tools" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4. More Control Flow Tools/4.3.TheRange()Function.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.5.1. More on Lists">
     <configuration default="false" name="4.4.breakAndContinueStatementandElseClausesOnLoops" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -244,6 +272,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4. More Control Flow Tools/4.7.MoreOnDefiningFunctions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="5.1. More on Lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5. Data Structures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5. Data Structures/5.1. More on Lists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -383,19 +428,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.4.3.TheRange()Function" />
-      <item index="1" class="java.lang.String" itemvalue="Python.4.4.breakAndContinueStatementandElseClausesOnLoops" />
-      <item index="2" class="java.lang.String" itemvalue="Python.4.5.passStatements" />
-      <item index="3" class="java.lang.String" itemvalue="Python.4.6.DefiningFunctions" />
-      <item index="4" class="java.lang.String" itemvalue="Python.4.7.MoreOnDefiningFunctions" />
+      <item index="0" class="java.lang.String" itemvalue="Python.4.4.breakAndContinueStatementandElseClausesOnLoops" />
+      <item index="1" class="java.lang.String" itemvalue="Python.4.5.passStatements" />
+      <item index="2" class="java.lang.String" itemvalue="Python.4.6.DefiningFunctions" />
+      <item index="3" class="java.lang.String" itemvalue="Python.4.7.MoreOnDefiningFunctions" />
+      <item index="4" class="java.lang.String" itemvalue="Python.5.1. More on Lists" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.4.7.MoreOnDefiningFunctions" />
-        <item index="1" class="java.lang.String" itemvalue="Python.4.6.DefiningFunctions" />
-        <item index="2" class="java.lang.String" itemvalue="Python.4.5.passStatements" />
-        <item index="3" class="java.lang.String" itemvalue="Python.4.4.breakAndContinueStatementandElseClausesOnLoops" />
-        <item index="4" class="java.lang.String" itemvalue="Python.4.3.TheRange()Function" />
+        <item index="0" class="java.lang.String" itemvalue="Python.5.1. More on Lists" />
+        <item index="1" class="java.lang.String" itemvalue="Python.4.7.MoreOnDefiningFunctions" />
+        <item index="2" class="java.lang.String" itemvalue="Python.4.6.DefiningFunctions" />
+        <item index="3" class="java.lang.String" itemvalue="Python.4.5.passStatements" />
+        <item index="4" class="java.lang.String" itemvalue="Python.4.4.breakAndContinueStatementandElseClausesOnLoops" />
       </list>
     </recent_temporary>
   </component>
@@ -476,26 +521,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Container/Container.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4. More Control Flow Tools/4.2.forStatements.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Calculator/FibonacciSeries.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="16" />
           <folding />
         </state>
       </provider>
@@ -534,16 +563,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/4. More Control Flow Tools/4.6.DefiningFunctions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="46" column="59" selection-start-line="46" selection-start-column="59" selection-end-line="46" selection-end-column="59" />
+        <state relative-caret-position="15">
+          <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/4. More Control Flow Tools/4.7.MoreOnDefiningFunctions.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="167" column="0" selection-start-line="167" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Calculator/FibonacciSeries.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="11" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Container/Container.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5. Data Structures/5.1. More on Lists.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
-          <caret line="46" column="11" selection-start-line="46" selection-start-column="11" selection-end-line="46" selection-end-column="11" />
+          <caret line="68" column="14" selection-start-line="68" selection-start-column="14" selection-end-line="68" selection-end-column="14" />
           <folding />
         </state>
       </provider>
